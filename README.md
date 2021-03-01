@@ -79,4 +79,7 @@ When the user opens the microwave, there are instructions on how to use the func
 
 #### 9. Prototype Sketch
 
-![microwaveSketch](https://user-images.githubusercontent.com/43687054/109434627-d1d30b80-79db-11eb-85ab-af7c2ce70ac8.jpeg)
+![microwaveSketch](https://user-images.githubusercontent.com/43687054/109453279-44151180-7a17-11eb-90fd-45e8db750c3d.jpeg)
+
+![colormicrowavesketch](https://user-images.githubusercontent.com/43687054/109453233-26e04300-7a17-11eb-8154-65e602794f17.jpeg)
+
