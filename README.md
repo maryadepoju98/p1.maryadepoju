@@ -20,6 +20,8 @@ Whirlpool Over-the-Range Household Microwave Oven Model WMH301017FS
 ![microwaveFunctions](https://user-images.githubusercontent.com/43687054/109434222-ddbdce00-79d9-11eb-897e-c64423528a1e.jpeg)
 ![insideMicrowave](https://user-images.githubusercontent.com/43687054/109434355-82d8a680-79da-11eb-9296-2532b99df0cb.jpeg)
 
+![microwaveGIF](https://user-images.githubusercontent.com/43687054/110155932-fa784e00-7dab-11eb-9941-a632598f59fc.gif)
+
 I included these pictures to show the microwave, exterior, functionality as well as user instructions. 
 
 ### Part B
